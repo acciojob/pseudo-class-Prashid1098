@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-h1::before
+div::before
 {
 	content:"Before Element";
 	color: red;
 }
-h1::after
+div::after
 {
 	content:"After Element";
 	color:red;
